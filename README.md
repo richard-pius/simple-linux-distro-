@@ -1,4 +1,4 @@
-# simple-linux-distro-
+# simple linux distro
 This is a very simple linux distro used for experimentation and research purpose and is not recommended for any other use!
 This distro does not support networking and many other features of Linux also this distro does not have any GUI interface.
 This distro is my hobby project and any support or maintenance is not guaranteed.
@@ -8,9 +8,10 @@ link: https://www.youtube.com/watch?v=QlzoegSuIzg
 
 Here are some screenshots:
 
-![Screenshot 2024-09-16 075601](https://github.com/user-attachments/assets/4feb8b3a-9b9a-48e7-9b49-5a44d4e90ead)
-![Screenshot 2024-09-16 075730](https://github.com/user-attachments/assets/bc74087f-55c3-45dc-b5d8-8c18c3929528)
-![Screenshot 2024-09-16 075847](https://github.com/user-attachments/assets/d623c39f-00dd-47ee-af61-92ce3f3858c9)
-![Screenshot 2024-09-16 075913](https://github.com/user-attachments/assets/03b8d310-a7c9-4d93-94cf-1679b2964d79)
+![step 2](https://github.com/user-attachments/assets/e316835a-eb98-459b-bd26-424e369fc40d)
+![step 3](https://github.com/user-attachments/assets/d70b056d-1d0b-4dbc-85ae-3d29bedba4a8)
+![step 4](https://github.com/user-attachments/assets/81e26380-cc2d-45eb-bb0f-e87bd9bd590c)
+![step 6](https://github.com/user-attachments/assets/f4b4d152-db66-471e-8571-4373ec28877e)
 
+![step 10](https://github.com/user-attachments/assets/556de34d-db99-41cc-a954-c3546ea80d76)
 
