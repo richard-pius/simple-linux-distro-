@@ -21,7 +21,7 @@ v2.0
 
 * Still works as a basic linux distro with limited features.
 * Does support networking but is not tested or confirmed.
-* The distro now supports gui interface.
+* The distro now supports graphics.
 
 
 Here are some screenshots of the distro i made using linux kernel , busybox and nano x:
